@@ -35,3 +35,4 @@ Nesta etapa de nivelamento, o foco é construir uma base sólida no ecossistema 
 
 ---
 > **Aviso:** Este repositório é de caráter estritamente pessoal e acadêmico. [cite_start]Para dúvidas oficiais sobre acessos, certificados ou sobre o programa, o contato deve ser feito através do suporte oficial da Alura: santander@alura.com.br[cite: 99].
+# artificial-intelligence-specialist-leveling-alura
